@@ -1,0 +1,1 @@
+C:\Users\allee_000\Documents\GitHub\phonegap-workshop-jquk2014\solutions\conference-ionic\platforms\windows\CordovaApp.Phone.jsproj;arm
